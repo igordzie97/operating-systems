@@ -1,8 +1,10 @@
+## Tworzenie procesów. Środowisko procesu, sterowanie procesami.
+
 ## Zadanie 1
 Zmodyfikuj zadanie 2 z poprzedniego zestawu w taki sposób, iż przeszukiwanie w każdym z odnalezionych (pod)katalogow powinno odbywać sie w osobnym procesie.  
 
 
-## Zadanie 2 - Prosty interpreter zadań wsadowych
+## Zadanie 2. Prosty interpreter zadań wsadowych
 W ramach ćwiczenia należy napisać prosty interpreter zadań wsadowych. Interpreter przyjmuje w argumencie nazwę pliku zawierającego zadanie wsadowe i wykonuje wszystkie polecenia 
 z tego pliku. Polecenia w pliku wsadowym maja postac: 
 ```NazwaProgramu arg1 arg2 ...```
