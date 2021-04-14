@@ -1,3 +1,5 @@
+## Zarządzanie pamięcią, biblioteki, pomiar czasu
+
 ## Zadanie 1.  Kompilator, optymalizacja, pomiar czasu
 Przygotuj zestaw czterech programów, a następnie dokonaj pomiarów czasów ich działania przy różnych flagach optymalizacyjnych kompilatora gcc.
 
