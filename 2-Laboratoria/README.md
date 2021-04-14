@@ -1,4 +1,4 @@
-## 1.Porównanie wydajności systemowych i bibliotecznych funkcji we/wy
+## Zadanie 1 Porównanie wydajności systemowych i bibliotecznych funkcji we/wy
 Celem zadania jest napisanie programu porównującego wydajność systemowych i bibliotecznych funkcji wejścia/wyjścia. Program operował będzie na przechowywanej w pliku tablicy rekordów. 
 Dla uproszczenia pojedynczy rekord będzie tablicą bajtów o stałej wielkości. 
 Nazwa pliku, wielkość oraz ilość rekordów stanowić będą argumenty wywołania programu.
@@ -24,7 +24,7 @@ Liczby rekordów dobierz tak, by czas sortowania mieścił się w przedziale od 
 Porównując dwa warianty implementacji należy korzystać z identycznego pliku do sortowania (po wygenerowaniu, a przed sortowaniem, utwórz jego kopię). 
 Zmierzone czasy zestaw w pliku wyniki.txt. Do pliku dodaj komentarz podsumowujący wnioski z testów.
 
-## 2.Operacje na strukturze katalogów
+## Zadanie 2 Operacje na strukturze katalogów
 Napisz program wyszukujący w drzewie katalogu (ścieżka do katalogu jest pierwszym argumentem programu), w zależności od wartości drugiego argumentu ('<', '>','='), 
 pliki zwykłe z datą modyfikacji wcześniejszą, późniejszą lub równą dacie podanej jako trzeci argument programu. 
 Program ma wypisać na standardowe wyjście następujące informacje znalezionych plików:
