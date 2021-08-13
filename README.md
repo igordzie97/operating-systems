@@ -1,2 +1,2 @@
-# SysOps
-Ćwiczenia laboratoryjne, przedmiot: Systemy operacyjne (2019)
+# Operating Systems
+Laboratory classes for Operating Systems (2019).
