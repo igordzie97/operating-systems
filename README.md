@@ -1,2 +1,2 @@
 # Operating Systems
-Laboratory classes for Operating Systems (2019).
+Ćwiczenia laboratoryjne, przedmiot: Systemy operacyjne (2019/2020)
